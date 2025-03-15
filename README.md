@@ -1,6 +1,7 @@
 COVID-19 Data Analysis & Visualization
 
--- 📊 Project Overview
+
+📊 Project Overview
 
 This project integrates Tableau Public and SQL to analyze and visualize COVID-19 data. It includes:
 
@@ -9,6 +10,7 @@ Data extraction and transformation using SQL queries.
 Interactive Tableau Dashboard for visual insights.
 
 Global and country-specific COVID-19 trends, including infection rates, death rates, and vaccination progress.
+
 
 📁 Files in This Repository
 
@@ -20,12 +22,14 @@ covid_analysis.sql → SQL queries used for data extraction and transformation.
 
 README.md → Documentation for the project.
 
+
 🛠 How to Use
+
 
 1️⃣ View the Dashboard Online
 
-If available, visit:
-👉 Tableau Public - COVID Dashboard
+![Covid_dashboard](https://github.com/user-attachments/assets/7a5c469a-87ad-4840-84d5-bd8ab18f02a3)
+
 
 2️⃣ Run the SQL Queries
 
@@ -35,11 +39,13 @@ Run the queries from covid_analysis.sql in your SQL environment (SQL Server, MyS
 
 Extract insights and validate data trends before visualization.
 
+
 3️⃣ Open the Tableau Workbook
 
 Open Tableau Public or Tableau Desktop.
 
 Load the .twbx file to explore interactive visualizations.
+
 
 📝 SQL Queries Overview
 
@@ -54,6 +60,7 @@ Highest Infection and Death Rates by Country & Continent
 Global COVID Trends Over Time
 
 Vaccination Rollout Analysis Using CTEs, Temp Tables & Views
+
 
 📊 Tableau Dashboard Features
 
